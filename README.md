@@ -8,4 +8,4 @@ This is a simple python3 script to generate private IP addresses.
 
 How to use:
 -
-Run ```$ python3 privateRandIPv4AddrGen.py``` after downloading the file.
+Run ```$ python3 /path/to/privateRandIPv4AddrGen.py``` after downloading the file.
