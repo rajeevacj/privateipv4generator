@@ -1,4 +1,4 @@
-# Copyright (c) Chi.C.J.Rajeeva Lochana
+# Created by Chi.C.J.Rajeeva Lochana
 
 
 import random
