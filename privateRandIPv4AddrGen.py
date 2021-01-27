@@ -8,7 +8,7 @@ import time
 numberList = [10,0,192,127,172]
 
 def randIPGenerator():
-    print("\nThis tool is for informational purposes only.\nWe are not responsible for any abuse of this tool.\n\n", end="")
+    print("\nThis tool is for informational purposes only.\nI am not responsible for any abuse of this tool.\n\n", end="")
     time.sleep(2.5)
     yesOrNo = str(input("Are you sure you want to generate a random private IPv4 address? (y/n): "));
     print("\n", end="");
