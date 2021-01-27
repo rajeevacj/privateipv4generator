@@ -1,5 +1,4 @@
 # Copyright (c) Chi.C.J.Rajeeva Lochana
-# Do not remove the above comment.
 
 
 import random
