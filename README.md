@@ -1,6 +1,6 @@
-# Private IPv4 Generator in Python
+# Private IPv4 Generator in Python 3
 
-This is a simple python script to generate private IP addresses.
+This is a simple python3 script to generate private IP addresses.
 
 :)
 -
