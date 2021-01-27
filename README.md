@@ -5,3 +5,8 @@ This is a simple python3 script to generate private IP addresses.
 
 :)
 -
+
+# How to use:
+```
+$ python3 privateRandIPv4AddrGen.py
+```
